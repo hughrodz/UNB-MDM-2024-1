@@ -1,0 +1,11 @@
+numpy
+pandas
+pyspark
+pyarrow
+tbb
+sentence-transformers
+umap-learn
+scikit-learn
+hdbscan
+matplotlib
+gpt4all
