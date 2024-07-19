@@ -1,7 +1,11 @@
 # Universidade de Brasilia
-# Mineracao de Dados Massivos
+# PPCA
+# Mineracao de Dados Massivos 2024 / 1
 # Enhancing Bibliometric Analysis with  Parallelized Topic Modeling for Corporate Scalability
-#
+# Authors
+# Hugo Rodrigues
+# Leandro Bertani
+# Daniel Vilarinho
 
 
 from sentence_transformers import SentenceTransformer
